@@ -30,7 +30,7 @@ export default function AppFooter() {
                 {/* Social Links */}
                 <div className="flex gap-6 justify-center mt-6 md:mt-0">
                     <Link
-                        href="https://twitter.com/NexoOptions​"
+                        href="https://x.com/NexoOptions"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
@@ -68,7 +68,7 @@ export default function AppFooter() {
                     </Link>
 
                     <Link
-                        href="https://discord.gg/nexooptions​"
+                        href="https://t.me/nexooptions"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
