@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Nexo Options",
   description: "Nexo Options is an on-chain options trading protocol on Base.",
+  icons: {
+    icon: "/images/logo/be.png",
+  },
 };
 
 export default function RootLayout({ children }) {

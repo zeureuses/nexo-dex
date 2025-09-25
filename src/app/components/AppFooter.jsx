@@ -10,11 +10,11 @@ export default function AppFooter() {
                     {/* Logo */}
                     <div className="footer-logo hidden md:block">
                         <Image
-                            src="/images/orb.png"
-                            alt="Hegic Logo"
-                            width={50}
-                            height={50}
-                            className="w-12 h-12"
+                            src="/images/logo/suzodziu.png"
+                            alt="Nexo Logo"
+                            width={120}
+                            height={48}
+                            className="w-auto h-auto"
                         />
                     </div>
 
@@ -39,7 +39,7 @@ export default function AppFooter() {
                             xmlns="http://www.w3.org/2000/svg"
                             x="0px"
                             y="0px"
-                                                     width="32"
+                            width="32"
                             height="32"
                             viewBox="0 0 256 256"
                         >
@@ -77,7 +77,7 @@ export default function AppFooter() {
                             xmlns="http://www.w3.org/2000/svg"
                             x="0px"
                             y="0px"
-                                                    width="32"
+                            width="32"
                             height="32"
                             viewBox="0 0 50 50"
                             style={{ fill: '#FFFFFF' }}
@@ -97,7 +97,7 @@ export default function AppFooter() {
                             xmlns="http://www.w3.org/2000/svg"
                             x="0px"
                             y="0px"
-                                              width="32"
+                            width="32"
                             height="32"
                             viewBox="0 0 256 256"
                         >

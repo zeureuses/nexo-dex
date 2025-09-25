@@ -3,13 +3,13 @@ import Link from 'next/link';
 
 export default function NavBar() {
     return (
-        <nav className="w-full py-[2rem]">
+        <nav className="w-full pb-[2rem]">
             <div className="nav-wrapper flex flex-row items-center text-white justify-between">
                 <Image
-                    src="/images/CTA.png"
-                    alt="Trading Chart"
-                    width={64}
-                    height={64}
+                    src="/images/logo/suzodziu.png"
+                    alt="Nexo Logo"
+                    width={120}
+                    height={48}
                     className="w-auto h-auto"
                 />
                 <div className="flex flex-row gap-10 items-center justify-center">
