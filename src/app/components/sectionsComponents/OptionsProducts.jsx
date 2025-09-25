@@ -178,7 +178,7 @@ export default function OptionsProducts() {
     };
 
     return (
-        <section className=" text-white py-20 w-full h-full">
+        <section id="options" className=" text-white py-20 w-full h-full">
             <div className="flex flex-col gap-6">
                 {/* Section Title */}
                 <h2 className="text-3xl md:text-5xl font-bold py-[2rem]">

@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function FeaturesSection() {
     return (
-        <section className=" text-white py-20">
+        <section id="why" className=" text-white py-20">
             <div className="max-w-7xl mx-auto">
                 <h2 className="text-3xl md:text-5xl font-bold mb-16 tracking-wider leading-snug">Why Nexo</h2>
 
