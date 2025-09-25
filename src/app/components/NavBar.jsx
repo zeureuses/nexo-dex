@@ -5,13 +5,16 @@ export default function NavBar() {
     return (
         <nav className="w-full pb-[2rem]">
             <div className="nav-wrapper flex flex-row items-center text-white justify-between">
-                <Image
-                    src="/images/logo/suzodziu.png"
-                    alt="Nexo Logo"
-                    width={120}
-                    height={48}
-                    className="w-auto h-auto"
-                />
+                <Link href='/'>
+                    <Image
+                        src="/images/logo/suzodziu.png"
+                        alt="Nexo Logo"
+                        width={120}
+                        height={48}
+                        className="w-auto h-auto"
+                    />
+                </Link>
+
                 <div className="flex flex-row gap-10 items-center justify-center">
                     <Link href='/#options' className="hidden md:inline tracking-widest leading-snug">Options products</Link>
                     <Link href='/#why' className="hidden md:inline tracking-widest leading-snug">Why Nexo</Link>
