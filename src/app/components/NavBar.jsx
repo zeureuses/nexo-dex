@@ -19,11 +19,11 @@ export default function NavBar() {
                     <Link href='/#options' className="hidden md:inline tracking-widest leading-snug">Options products</Link>
                     <Link href='/#why' className="hidden md:inline tracking-widest leading-snug">Why Nexo</Link>
                     <Link
-                        href="/"
+                        href="https://nexooptions.gitbook.io/nexooptions-docs/"
                         className="inline-flex tracking-widest leading-snug items-center justify-center h-12 px-5 rounded-lg text-white font-bold text-base shadow-lg transition-all duration-200 bg-[linear-gradient(263.82deg,#16ca83,#0e8053)] hover:bg-[linear-gradient(96.18deg,#16ca83,#0e8053)]"
                         target="_self"
                     >
-                        Start Trading
+                        Learn More
                     </Link>
                 </div>
             </div>
