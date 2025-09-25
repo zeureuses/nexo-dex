@@ -30,7 +30,7 @@ export default function AppFooter() {
                 {/* Social Links */}
                 <div className="flex gap-6 justify-center mt-6 md:mt-0">
                     <Link
-                        href="https://twitter.com/HegicOptions"
+                        href="https://twitter.com/NexoOptions​"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
@@ -68,7 +68,7 @@ export default function AppFooter() {
                     </Link>
 
                     <Link
-                        href="https://discord.gg/qetXwcRqur"
+                        href="https://discord.gg/nexooptions​"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
@@ -88,7 +88,7 @@ export default function AppFooter() {
 
 
                     <Link
-                        href="https://github.com/hegic"
+                        href="https://github.com/nexooptions"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
@@ -126,7 +126,7 @@ export default function AppFooter() {
                     </Link>
 
                     <Link
-                        href="https://medium.com/hegic/hegic-hardcore-beta-release-2573a2d4cb3d"
+                        href="https://nexooptions.gitbook.io/nexooptions-docs/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-green-400 transition"
